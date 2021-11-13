@@ -1,1 +1,1 @@
-Portfolio deployed at https://raihan-21.github.io/portfolio/
+Portfolio deployed at https://raihan-21.github.io/
